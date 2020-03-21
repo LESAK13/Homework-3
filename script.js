@@ -4,6 +4,7 @@ var upperCaseConfirm = confirm("Would you like to include uppercase letters?");
 var numbersConfirm = confirm("Would you like to include numbers?");
 var symbolsConfirm = confirm("Would you like to include symbols?");
 
+
 if (lowerCaseConfirm == true) {
   var lowerArr = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 }else{
